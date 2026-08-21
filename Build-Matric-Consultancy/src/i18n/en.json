@@ -1,0 +1,306 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "insights": "Insights",
+    "about": "About",
+    "requestEstimate": "Request Cost Estimate",
+    "region": "Region: UAE",
+    "whatsapp": "WhatsApp Us"
+  },
+  "hero": {
+    "tagline": "CONSTRUCTION COST & COMMERCIAL CONSULTANCY",
+    "title_line1": "BUILT",
+    "title_line2": "METRIC",
+    "subtitle_1": "Strategic ",
+    "subtitle_qs": "Quantity Surveying",
+    "subtitle_2": ", Cost Management, Contract Management and Project Advisory services across the UAE — combining technical expertise, contractual insight and ",
+    "subtitle_data": "data-driven decision-making",
+    "subtitle_3": " on every project.",
+    "btnServices": "Explore Our Services",
+    "btnEstimate": "Request a Cost Estimate",
+    "scrollDown": "Scroll Down"
+  },
+  "stats": {
+    "projectsDelivered": "Projects Delivered",
+    "residentialUnits": "Residential Units",
+    "yearsExperience": "Years of Experience",
+    "sectorsServed": "Sectors Served"
+  },
+  "about": {
+    "tag": "ABOUT US",
+    "title": "SPECIALIST CONSTRUCTION COST & COMMERCIAL CONSULTANCY",
+    "text": "BuiltMetric delivers strategic Quantity Surveying, cost management, contract, claims and project advisory services across the UAE — helping clients build with cost certainty from feasibility through to final account.",
+    "learnMore": "Learn More →",
+    "experienceTitle": "Our Experience",
+    "experienceDesc": "Residential, Hospitality, Commercial, Marine, Infrastructure and Development projects across the UAE.",
+    "approachTitle": "Our Approach",
+    "approachDesc": "Technical expertise, contractual insight and data-driven decisions that strengthen cost certainty and manage risk."
+  },
+  "services": {
+    "tag": "OUR SERVICES",
+    "title": "STRATEGIC COST & COMMERCIAL\nCONSULTANCY, END TO END.",
+    "learnMore": "Learn More →",
+    "items": [
+      {
+        "title": "Quantity Surveying & Cost Management",
+        "desc": "Robust cost planning and control from feasibility through to final account.",
+        "tags": ["Feasibility Estimates", "Cost Planning", "BOQ Preparation", "Tender Documentation", "Tender Evaluation", "Value Engineering", "Final Accounts"]
+      },
+      {
+        "title": "Commercial & Contract Management",
+        "desc": "End-to-end contract administration that protects your commercial position.",
+        "tags": ["Contract Administration", "Change Management", "Variations", "Commercial Reporting", "Payment Certification", "Contractual Advice"]
+      },
+      {
+        "title": "Claims & Dispute Support",
+        "desc": "Independent quantum assessment and expert support through negotiation and dispute resolution.",
+        "tags": ["Claims Preparation & Review", "Quantum Assessment", "Expert Witness Reports", "EOT / Disruption Assessment", "Negotiation Support", "Arbitration & Adjudication Support"]
+      },
+      {
+        "title": "Project Management / PMC",
+        "desc": "Hands-on project controls that keep delivery, procurement and risk aligned.",
+        "tags": ["Project Controls", "Procurement Management", "Design Coordination", "Risk Management", "Reporting"]
+      },
+      {
+        "title": "Development & Investment Advisory",
+        "desc": "Feasibility and due diligence support for developers and investors.",
+        "tags": ["Development Feasibility", "Cost Benchmarking", "Due Diligence", "CAPEX Forecasting", "Development Monitoring"]
+      },
+      {
+        "title": "Digital Project Commercial Management",
+        "desc": "Cost dashboards and 5D data that bring real-time clarity to commercial reporting.",
+        "tags": ["Cost Dashboards", "Digital Cost Control", "BIM / 5D Integration", "AI-Integrated Commercial Reporting"]
+      }
+    ]
+  },
+  "whyBuiltMetric": {
+    "tag": "WHY BUILTMETRIC",
+    "title": "STRENGTHENING COST CERTAINTY AT EVERY STAGE",
+    "pillars": [
+      {
+        "title": "Cost Certainty",
+        "desc": "Rigorous cost planning and control from feasibility through to final account."
+      },
+      {
+        "title": "Commercial Insight",
+        "desc": "Contract and commercial advice that protects your position at every stage."
+      },
+      {
+        "title": "Risk Management",
+        "desc": "Proactive identification and mitigation of commercial and project risk."
+      },
+      {
+        "title": "Digital Intelligence",
+        "desc": "Cost dashboards and 5D data that bring real-time clarity to reporting."
+      }
+    ]
+  },
+  "projectsPreview": {
+    "tag": "PORTFOLIO",
+    "title": "FEATURED PROJECTS",
+    "viewAll": "View All Projects →"
+  },
+  "projects": {
+    "items": [
+      {
+        "title": "Breakwater, Dredging, Wharf & Reclamation Works",
+        "cat": "Marine Infrastructure",
+        "loc": "Western Region, Abu Dhabi, UAE"
+      },
+      {
+        "title": "Coastal Revetment Works",
+        "cat": "Coastal Infrastructure",
+        "loc": "Western Region, Abu Dhabi, UAE"
+      },
+      {
+        "title": "Site Grading, Roads & Paving Works",
+        "cat": "Infrastructure",
+        "loc": "Western Region, Abu Dhabi, UAE"
+      },
+      {
+        "title": "Composite Mid-Rise Building Development",
+        "cat": "Residential / Commercial",
+        "loc": "Western Region, Abu Dhabi, UAE"
+      },
+      {
+        "title": "The Villa — Thematic Residential Development",
+        "cat": "Residential",
+        "loc": "Dubai, UAE · 1,200+ Villas"
+      },
+      {
+        "title": "Al Khail Gate — Phase 1",
+        "cat": "Residential",
+        "loc": "Dubai, UAE"
+      },
+      {
+        "title": "DubaiLand Master Development",
+        "cat": "Master Development",
+        "loc": "Dubai, UAE"
+      },
+      {
+        "title": "High-End Private Residential / Palace Developments",
+        "cat": "Luxury Residential",
+        "loc": "UAE"
+      }
+    ]
+  },
+  "insights": {
+    "tag": "INSIGHTS",
+    "title": "LATEST INSIGHTS",
+    "subtitle": "Stay updated with industry trends, insights, and expert advice from our team.",
+    "viewAll": "View All Insights →",
+    "items": [
+      {
+        "cat": "Cost Management",
+        "date": "May 15, 2024 • 5 min read",
+        "title": "Cost Planning for UAE Construction Projects",
+        "desc": "How early-stage cost planning improves budget certainty across the project lifecycle."
+      },
+      {
+        "cat": "Contracts",
+        "date": "April 22, 2024 • 4 min read",
+        "title": "Understanding Variations in Construction Contracts",
+        "desc": "A practical look at how variations are assessed, valued and certified."
+      },
+      {
+        "cat": "Quantity Surveying",
+        "date": "April 03, 2024 • 6 min read",
+        "title": "How Quantity Surveyors Control Project Costs",
+        "desc": "The QS role in tender evaluation, cost control and final account close-out."
+      },
+      {
+        "cat": "Commercial Risk",
+        "date": "March 18, 2024 • 5 min read",
+        "title": "Managing Commercial Risk in Large Developments",
+        "desc": "Identifying and mitigating commercial exposure across large-scale developments."
+      },
+      {
+        "cat": "Digital",
+        "date": "February 27, 2024 • 4 min read",
+        "title": "BIM 5D and the Future of Cost Management",
+        "desc": "How 5D BIM integration is changing real-time cost control on site."
+      },
+      {
+        "cat": "Digital",
+        "date": "February 09, 2024 • 5 min read",
+        "title": "AI in Construction Commercial Management",
+        "desc": "Where AI-integrated reporting genuinely adds value to commercial teams."
+      }
+    ]
+  },
+  "cta": {
+    "title": "PLANNING A CONSTRUCTION PROJECT?",
+    "text": "Get an initial professional cost assessment from our Quantity Surveying team.",
+    "btn": "Request a Cost Estimate →"
+  },
+  "faq": {
+    "tag": "SUPPORT",
+    "title": "FREQUENTLY ASKED QUESTIONS",
+    "desc": "We're here to answer all your questions and provide clarity on every stage of your project's cost and commercial management.",
+    "items": [
+      {
+        "q": "How do I request a construction cost estimate?",
+        "a": "Submit the form above with your project details. Our Quantity Surveying team will review the information and follow up with an initial cost assessment."
+      },
+      {
+        "q": "Do you provide an instant cost calculator?",
+        "a": "No — construction pricing depends on too many project-specific factors to be reduced to a simple calculation. We review each submission individually before providing an assessment."
+      },
+      {
+        "q": "What types of projects do you advise on?",
+        "a": "Residential, commercial, hospitality, marine, infrastructure and mixed-use developments across the UAE."
+      },
+      {
+        "q": "Do you offer claims and dispute support?",
+        "a": "Yes — including claims preparation and review, quantum assessment, expert witness reports, and support through negotiation, arbitration and adjudication."
+      },
+      {
+        "q": "Can you support projects that are already under construction?",
+        "a": "Yes. We provide commercial and contract management, cost control, and project advisory services at any stage of the project lifecycle."
+      },
+      {
+        "q": "How quickly will I hear back after submitting a request?",
+        "a": "Our team typically reviews and responds to cost estimate requests within a few business days, depending on project complexity."
+      }
+    ]
+  },
+  "footer": {
+    "address_line1": "BuiltMetric Consultancy",
+    "address_line2": "Dubai, United Arab Emirates",
+    "phone": "+971 4 000 0000",
+    "email": "info@builtmetric.com",
+    "navigate": "NAVIGATE",
+    "servicesTitle": "SERVICES",
+    "followUs": "FOLLOW US",
+    "copyright": "© 2026 BuiltMetric Consultancy. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  },
+  "contact": {
+    "pageTag": "Contact",
+    "pageTitle": "Request a Construction Cost Estimate",
+    "pageSubtitle": "Tell us about your project and our team will review the details and get back to you with an initial professional cost assessment.",
+    "getInTouch": "GET IN TOUCH",
+    "companyName": "BuiltMetric Consultancy",
+    "infoText": "We don't publish an automatic cost calculator — construction pricing depends on too many project-specific factors. Submit your details and our Quantity Surveying team will follow up directly.",
+    "location": "Dubai, United Arab Emirates",
+    "whatsapp": "WhatsApp Us"
+  },
+  "form": {
+    "fullName": "Full Name *",
+    "company": "Company",
+    "email": "Email *",
+    "phone": "Phone *",
+    "projectLocation": "Project Location",
+    "projectLocationPlaceholder": "e.g. Abu Dhabi, UAE",
+    "projectType": "Project Type",
+    "selectProjectType": "Select project type",
+    "approxArea": "Approx. Gross Floor Area (sqm)",
+    "approxAreaPlaceholder": "e.g. 12,000",
+    "numFloors": "Number of Floors",
+    "currentStage": "Current Project Stage",
+    "selectStage": "Select stage",
+    "expectedStart": "Expected Construction Start",
+    "expectedStartPlaceholder": "e.g. Q1 2027",
+    "projectDesc": "Project Description",
+    "uploadDocs": "Upload Drawings / BOQ / Documents",
+    "additionalInfo": "Additional Information",
+    "submit": "Submit Estimate Request",
+    "successTitle": "Request Received",
+    "successText": "Our team will review your project information and contact you with an initial cost assessment.",
+    "projectTypes": ["Residential", "Commercial", "Marine Infrastructure", "Infrastructure", "Mixed-Use Development", "Hospitality", "Other"],
+    "projectStages": ["Concept / Feasibility", "Design Development", "Tender / Procurement", "Under Construction", "Post-Construction"]
+  },
+  "servicesPage": {
+    "tag": "Our Services",
+    "title": "Construction Cost & Commercial Consultancy",
+    "subtitle": "Six specialist service lines covering the full project lifecycle — from feasibility to final account."
+  },
+  "projectsPage": {
+    "tag": "Portfolio",
+    "title": "Our Projects",
+    "subtitle": "A selection of residential, commercial, marine and infrastructure projects delivered across the UAE."
+  },
+  "insightsPage": {
+    "tag": "Insights",
+    "title": "Knowledge Centre",
+    "subtitle": "Industry trends, insights and expert advice from our Quantity Surveying and commercial management team."
+  },
+  "aboutPage": {
+    "tag": "About Us",
+    "title": "About BuiltMetric",
+    "subtitle": "BuiltMetric is a specialist construction cost and commercial consultancy delivering strategic Quantity Surveying, cost management, contract, claims and project advisory services.",
+    "experienceTag": "OUR EXPERIENCE",
+    "experienceItems": ["Residential", "Hospitality", "Commercial", "Marine", "Infrastructure", "Developments"],
+    "approachTag": "OUR APPROACH",
+    "approachSteps": ["Technical Expertise", "Contractual Insight", "Data-Driven Decisions"],
+    "approachText": "Our approach combines technical expertise, contractual insight and data-driven decision-making to strengthen cost certainty, manage risk and enhance project performance.",
+    "stats": [
+      { "value": "15+", "label": "Years Industry Experience" },
+      { "value": "1,200+", "label": "Residential Units" },
+      { "value": "UAE", "label": "Regional Experience" }
+    ]
+  }
+}

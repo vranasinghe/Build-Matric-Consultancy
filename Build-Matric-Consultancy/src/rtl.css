@@ -1,0 +1,238 @@
+/* ==========================================================================
+   RTL (Arabic) Layout Overrides
+   Applied when html[dir="rtl"] is active
+   ========================================================================== */
+
+/* ---------- Global ---------- */
+[dir="rtl"] body {
+  font-family: 'Noto Sans Arabic', var(--font-main);
+}
+
+[dir="rtl"] h1,
+[dir="rtl"] h2,
+[dir="rtl"] h3,
+[dir="rtl"] h4,
+[dir="rtl"] .section-title,
+[dir="rtl"] .hero-title {
+  font-family: 'Noto Sans Arabic', var(--font-heading);
+}
+
+/* ---------- Topbar ---------- */
+[dir="rtl"] .topbar-container {
+  direction: rtl;
+}
+
+/* ---------- Navbar ---------- */
+[dir="rtl"] .nav-container {
+  direction: rtl;
+}
+
+[dir="rtl"] .nav-links {
+  direction: rtl;
+}
+
+/* Language toggle button styling */
+.lang-toggle {
+  background: none;
+  border: none;
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 0.78rem;
+  cursor: pointer;
+  padding: 2px 6px;
+  border-radius: 4px;
+  transition: var(--transition);
+  letter-spacing: 0.5px;
+  font-family: var(--font-main);
+}
+
+.lang-toggle:hover {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.lang-toggle .lang-active {
+  font-weight: 700;
+  color: #38bdf8;
+}
+
+/* ---------- Hero ---------- */
+[dir="rtl"] .hero-content {
+  text-align: right;
+}
+
+[dir="rtl"] .hero-scroll {
+  right: auto;
+  left: 5%;
+}
+
+[dir="rtl"] .hero-btns {
+  justify-content: flex-start;
+}
+
+/* ---------- About Section ---------- */
+[dir="rtl"] .about-grid {
+  direction: rtl;
+}
+
+[dir="rtl"] .about-feature {
+  direction: rtl;
+  text-align: right;
+}
+
+[dir="rtl"] .about-img-secondary {
+  right: auto;
+  left: -30px;
+}
+
+/* ---------- Services ---------- */
+[dir="rtl"] .services-header {
+  text-align: center;
+}
+
+[dir="rtl"] .service-card {
+  text-align: right;
+}
+
+/* ---------- Stats ---------- */
+[dir="rtl"] .stats-grid {
+  direction: rtl;
+}
+
+/* ---------- WhyBuiltMetric ---------- */
+[dir="rtl"] .why-card {
+  text-align: right;
+}
+
+/* ---------- Projects Preview ---------- */
+[dir="rtl"] .projects-preview-header {
+  direction: rtl;
+}
+
+/* ---------- Insights ---------- */
+[dir="rtl"] .insights-header {
+  direction: rtl;
+}
+
+[dir="rtl"] .insight-body {
+  text-align: right;
+}
+
+/* ---------- CTA ---------- */
+[dir="rtl"] .cta-content {
+  text-align: center;
+}
+
+/* ---------- FAQ ---------- */
+[dir="rtl"] .faq-grid {
+  direction: rtl;
+}
+
+[dir="rtl"] .faq-left {
+  text-align: right;
+}
+
+[dir="rtl"] .faq-question {
+  text-align: right;
+  direction: rtl;
+}
+
+[dir="rtl"] .faq-answer {
+  text-align: right;
+}
+
+/* ---------- Footer ---------- */
+[dir="rtl"] .footer-grid {
+  direction: rtl;
+}
+
+[dir="rtl"] .footer-brand {
+  text-align: right;
+}
+
+[dir="rtl"] .footer-col {
+  text-align: right;
+}
+
+[dir="rtl"] .footer-bottom {
+  direction: rtl;
+}
+
+/* ---------- Contact Page ---------- */
+[dir="rtl"] .contact-grid {
+  direction: rtl;
+}
+
+[dir="rtl"] .contact-info {
+  text-align: right;
+}
+
+[dir="rtl"] .contact-info-item {
+  direction: rtl;
+}
+
+/* ---------- Cost Estimate Form ---------- */
+[dir="rtl"] .estimate-form {
+  direction: rtl;
+  text-align: right;
+}
+
+[dir="rtl"] .form-field label {
+  text-align: right;
+}
+
+[dir="rtl"] .form-field input,
+[dir="rtl"] .form-field select,
+[dir="rtl"] .form-field textarea {
+  text-align: right;
+  direction: rtl;
+}
+
+/* ---------- Services List (Services Page) ---------- */
+[dir="rtl"] .service-block {
+  direction: rtl;
+  text-align: right;
+}
+
+[dir="rtl"] .service-block-body {
+  text-align: right;
+}
+
+/* ---------- Page Hero ---------- */
+[dir="rtl"] .page-hero-content {
+  text-align: center;
+}
+
+/* ---------- About Page ---------- */
+[dir="rtl"] .about-page-grid {
+  direction: rtl;
+}
+
+[dir="rtl"] .about-page-block {
+  text-align: right;
+}
+
+[dir="rtl"] .approach-flow {
+  direction: rtl;
+}
+
+[dir="rtl"] .approach-arrow {
+  transform: scaleX(-1);
+}
+
+/* ---------- Insights Grid ---------- */
+[dir="rtl"] .insights-grid-full {
+  direction: rtl;
+}
+
+/* ---------- Projects Grid ---------- */
+[dir="rtl"] .project-info {
+  text-align: right;
+}
+
+/* ---------- Mobile overrides ---------- */
+@media (max-width: 768px) {
+  [dir="rtl"] .nav-links {
+    left: auto;
+    right: 5%;
+  }
+}
